@@ -1,2 +1,2 @@
 # masterz_solana_bootcamp
-Project for MasterZ Solana Bootcamp
+Repository for the exam of MasterZ Solana Bootcamp of Daniele Pau
