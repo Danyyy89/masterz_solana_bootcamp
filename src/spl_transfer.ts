@@ -9,7 +9,7 @@ import {
     transfer,
  } from "@solana/spl-token";
 
-import wallet from "../test.json";
+import wallet from "../keys/test.json";
 
 const keypair = Keypair.fromSecretKey(new Uint8Array(wallet));
 const connection = new Connection("https://api.devnet.solana.com", "confirmed");
